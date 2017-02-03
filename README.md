@@ -7,9 +7,10 @@
 
 <h1>Identitas</h1>
 <ol>
-<li> Nama : Jadinta Salsabila H. </li>
+<li> Nama : Jadinta Salsabila Herdianti </li>
 <li> Kelas : XIR6 </li>
 <li> Absen : 13 </li>
+<li> Sekolah : SMK Telkom Malang </li>
 <li> NIS : 4729/1449.070 </li>
 
 
